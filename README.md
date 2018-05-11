@@ -41,6 +41,7 @@ Please feel free to send a PR with a link to an additional project.
 * [rr-init][]
 * [rrtools][]
 * [rsmith][]
+* [RSuite][]
 * [samantha][]
 * [usethis][]
 * [workflowr][]
@@ -80,6 +81,7 @@ Please feel free to send a PR with a link to an additional project.
 [rr-init]: https://github.com/Reproducible-Science-Curriculum/rr-init
 [rrtools]: https://github.com/benmarwick/rrtools
 [rsmith]: https://github.com/hadley/rsmith
+[RSuite]: http://rsuite.io
 [samantha]: https://github.com/DASpringate/samatha
 [usethis]: http://usethis.r-lib.org/
 [workflowr]: https://jdblischak.github.io/workflowr/
