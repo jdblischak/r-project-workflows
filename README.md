@@ -31,6 +31,7 @@ Please feel free to send a PR with a link to an additional project.
 * [ProjectTemplate][]
 * [rddj-template][]
 * [remake][]
+* [reportfactory][]
 * [reports][]
 * [represtools][]
 * [researchcompendium][]
@@ -70,6 +71,7 @@ Please feel free to send a PR with a link to an additional project.
 [ProjectTemplate]: https://github.com/johnmyleswhite/ProjectTemplate
 [rddj-template]: https://github.com/grssnbchr/rddj-template
 [remake]: https://github.com/richfitz/remake
+[reportfactory]: https://github.com/reconhub/reportfactory
 [reports]: https://github.com/trinker/reports
 [represtools]: https://github.com/PirateGrunt/represtools
 [researchcompendium]: https://github.com/benmarwick/researchcompendium
