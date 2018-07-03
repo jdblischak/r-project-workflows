@@ -16,6 +16,7 @@ Please feel free to send a PR with a link to an additional project.
 * [cboettig/template][]
 * [CRAN Task View: Reproducible Research][cran-rr]
 * [drake][]
+* [Executable Research Compendium][erc]
 * [exreport][]
 * [knitr][]
 * [knitr-jekyll][]
@@ -56,6 +57,7 @@ Please feel free to send a PR with a link to an additional project.
 [cboettig/template]: https://github.com/cboettig/template
 [cran-rr]: https://cran.r-project.org/web/views/ReproducibleResearch.html
 [drake]: https://ropensci.github.io/drake/
+[erc]: http://o2r.info/erc-spec/
 [exreport]: https://github.com/jacintoArias/exreport
 [knitr]: https://github.com/yihui/knitr
 [knitr-jekyll]: https://github.com/yihui/knitr-jekyll
