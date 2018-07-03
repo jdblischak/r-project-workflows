@@ -24,6 +24,7 @@ Please feel free to send a PR with a link to an additional project.
 * [lnraw][]
 * [makeProject][]
 * [manuscriptPackage][]
+* [Open Analytics template package][openanalytics] ([example][openanalytics-ex])
 * [Pakillo/template][]
 * [pkgdown][]
 * [poirot][]
@@ -66,6 +67,8 @@ Please feel free to send a PR with a link to an additional project.
 [lnraw]: https://github.com/mmadsen/lnraw
 [makeProject]: https://cran.r-project.org/web/packages/makeProject/index.html
 [manuscriptPackage]: https://github.com/jhollist/manuscriptPackage
+[openanalytics]: https://www.openanalytics.eu/blog/2017/11/21/r-template-package/
+[openanalytics-ex]: https://github.com/openanalytics/useR2017_templatePackageExample
 [Pakillo/template]: https://github.com/Pakillo/template
 [pkgdown]: http://hadley.github.io/pkgdown/
 [poirot]: https://github.com/ramnathv/poirot
