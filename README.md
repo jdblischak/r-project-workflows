@@ -47,7 +47,7 @@ Please feel free to send a PR with a link to an additional project.
 * [rrtools][]
 * [rsmith][]
 * [RSuite][]
-* [samantha][]
+* [samatha][]
 * [tinyProject][]
 * [usethis][]
 * [workflowr][]
@@ -94,7 +94,7 @@ Please feel free to send a PR with a link to an additional project.
 [rrtools]: https://github.com/benmarwick/rrtools
 [rsmith]: https://github.com/hadley/rsmith
 [RSuite]: http://rsuite.io
-[samantha]: https://github.com/DASpringate/samatha
+[samatha]: https://github.com/DASpringate/samatha
 [tinyProject]: https://github.com/FrancoisGuillem/tinyProject
 [usethis]: http://usethis.r-lib.org/
 [workflowr]: https://jdblischak.github.io/workflowr/
