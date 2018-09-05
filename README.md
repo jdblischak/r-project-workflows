@@ -47,6 +47,7 @@ Please feel free to send a PR with a link to an additional project.
 * [rsmith][]
 * [RSuite][]
 * [samantha][]
+* [tinyProject][]
 * [usethis][]
 * [workflowr][]
 * [zoon][]
@@ -92,6 +93,7 @@ Please feel free to send a PR with a link to an additional project.
 [rsmith]: https://github.com/hadley/rsmith
 [RSuite]: http://rsuite.io
 [samantha]: https://github.com/DASpringate/samatha
+[tinyProject]: https://github.com/FrancoisGuillem/tinyProject
 [usethis]: http://usethis.r-lib.org/
 [workflowr]: https://jdblischak.github.io/workflowr/
 [zoon]: https://github.com/zoonproject/zoon
