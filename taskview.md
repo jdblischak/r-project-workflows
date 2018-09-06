@@ -4,7 +4,7 @@ Brainstorming how to organize a taskview proposal focused on CRAN packages that 
 
 ## Utilities
 
-These packages provide single-use functions to implement project infrastructure.
+These packages provide single-use functions to implement project infrastructure. As a typical example, `usethis::use_git()` initializes a Git repository, ignores common R files, and commits all project files.
 
 * [rrtools][]
 * [usethis][]
@@ -14,12 +14,13 @@ These packages provide single-use functions to implement project infrastructure.
 
 ## Frameworks
 
-These packages provide an organized directory structure and helper functions to assist during the development of the project.
+These packages provide an organized directory structure and helper functions to assist during the development of the project. As a typical example, `ProjectTemplate::create.project()` creates an organized setup with many subdirectories, and `ProjectTemplate::run.project()` executes each R script that is saved in the `src/` subdirectory.
 
 * [adapr][]
+* [archivist][]
 * [exreport][]
 * [makeProject][]
-* [projectTemplate][]
+* [ProjectTemplate][]
 * [reports][]
 * [represtools][]
 * [RSuite][]
@@ -28,9 +29,10 @@ These packages provide an organized directory structure and helper functions to 
 * [zoon][]
 
 [adapr]: https://cran.r-project.org/package=adapr
+[archivist]: https://cran.r-project.org/package=archivist
 [exreport]: https://cran.r-project.org/package=exreport
 [makeProject]: https://cran.r-project.org/package=makeProject
-[projectTemplate]: https://cran.r-project.org/package=projectTemplate
+[ProjectTemplate]: https://cran.r-project.org/package=ProjectTemplate
 [reports]: https://cran.r-project.org/package=reports
 [represtools]: https://cran.r-project.org/package=represtools
 [RSuite]: https://cran.r-project.org/package=RSuite
@@ -38,11 +40,9 @@ These packages provide an organized directory structure and helper functions to 
 [workflowr]: https://cran.r-project.org/package=workflowr
 [zoon]: https://cran.r-project.org/package=zoon
 
-https://cran.r-project.org/package=makeProject
-
 ## Pipelines
 
-These packages implement complex pipelines for processing data in a series of interdependent steps.
+These packages implement complex pipelines for processing data in a series of interdependent steps. As a typical example, `drake::make()` builds the dependency graph from the defined analysis steps and only executes those steps whose upstream dependencies have been updated.
 
 * [drake][]
 * [repo][]
@@ -52,12 +52,16 @@ These packages implement complex pipelines for processing data in a series of in
 
 ## Dependency and environment management
 
-These packages help manage the computational environment for running the project code.
+These packages help manage the computational environment for running the project code. As a typical example, `packrat::snapshot()` records the packages used for a project as well as their versions, and `packrat::restore()` installs these packages in a new location.
 
+* [checkpoint][]
 * [liftr][]
 * [packrat][]
+* [rbundler][]
 * [switchr][]
 
+[checkpoint]: https://cran.r-project.org/package=checkpoint
 [liftr]: https://cran.r-project.org/package=liftr
 [packrat]: https://cran.r-project.org/package=packrat
+[rbundler]: https://cran.r-project.org/package=rbundler
 [switchr]: https://cran.r-project.org/package=switchr

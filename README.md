@@ -10,6 +10,7 @@ Please feel free to send a PR with a link to an additional project.
 
 * [adapr][]
 * [analysis_framework][]
+* [archivist][]
 * [blogdown][]
 * [blogR][]
 * [bookdown][]
@@ -55,6 +56,7 @@ Please feel free to send a PR with a link to an additional project.
 
 [adapr]: https://github.com/gelfondjal/adapr
 [analysis_framework]: https://github.com/jimhester/analysis_framework
+[archivist]: https://pbiecek.github.io/archivist/
 [blogdown]: https://github.com/rstudio/blogdown
 [blogR]: https://github.com/rmflight/blogR
 [bookdown]: https://github.com/rstudio/bookdown
