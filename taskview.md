@@ -2,6 +2,11 @@
 
 Brainstorming how to organize a taskview proposal focused on CRAN packages that facilitate project workflow. The packages are organized into approximate categories, but many have features that define the other categories as well.
 
+* [Utilities](#utilities)
+* [Frameworks](#frameworks)
+* [Pipelines](#pipelines)
+* [Dependencies](#dependencies)
+
 ## Utilities
 
 These packages provide single-use functions to implement project infrastructure. As a typical example, `usethis::use_git()` initializes a Git repository, ignores common R files, and commits all project files.
@@ -50,7 +55,7 @@ These packages implement complex pipelines for processing data in a series of in
 [drake]: https://cran.r-project.org/package=drake
 [repo]: https://cran.r-project.org/package=repo
 
-## Dependency and environment management
+## Dependencies
 
 These packages help manage the computational environment for running the project code. As a typical example, `packrat::snapshot()` records the packages used for a project as well as their versions, and `packrat::restore()` installs these packages in a new location.
 
