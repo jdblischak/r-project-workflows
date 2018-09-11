@@ -1,6 +1,8 @@
-# Taskview: Project workflow
+# Task View: Project workflow
 
-Brainstorming how to organize a taskview proposal focused on CRAN packages that facilitate project workflow. The packages are organized into approximate categories, but many have features that define the other categories as well.
+Brainstorming how to organize a task view proposal focused on CRAN packages that
+facilitate project workflow. The packages are organized into approximate
+categories, but many have features that define the other categories as well.
 
 * [Utilities](#utilities)
 * [Frameworks](#frameworks)
@@ -9,7 +11,9 @@ Brainstorming how to organize a taskview proposal focused on CRAN packages that 
 
 ## Utilities
 
-These packages provide single-use functions to implement project infrastructure. As a typical example, `usethis::use_git()` initializes a Git repository, ignores common R files, and commits all project files.
+These packages provide single-use functions to implement project infrastructure.
+As a typical example, `usethis::use_git()` initializes a Git repository, ignores
+common R files, and commits all project files.
 
 * [rrtools][]
 * [usethis][]
@@ -19,7 +23,11 @@ These packages provide single-use functions to implement project infrastructure.
 
 ## Frameworks
 
-These packages provide an organized directory structure and helper functions to assist during the development of the project. As a typical example, `ProjectTemplate::create.project()` creates an organized setup with many subdirectories, and `ProjectTemplate::run.project()` executes each R script that is saved in the `src/` subdirectory.
+These packages provide an organized directory structure and helper functions to
+assist during the development of the project. As a typical example,
+`ProjectTemplate::create.project()` creates an organized setup with many
+subdirectories, and `ProjectTemplate::run.project()` executes each R script that
+is saved in the `src/` subdirectory.
 
 * [adapr][]
 * [archivist][]
@@ -47,7 +55,10 @@ These packages provide an organized directory structure and helper functions to 
 
 ## Pipelines
 
-These packages implement complex pipelines for processing data in a series of interdependent steps. As a typical example, `drake::make()` builds the dependency graph from the defined analysis steps and only executes those steps whose upstream dependencies have been updated.
+These packages implement complex pipelines for processing data in a series of
+interdependent steps. As a typical example, `drake::make()` builds the
+dependency graph from the defined analysis steps and only executes those steps
+whose upstream dependencies have been updated.
 
 * [drake][]
 * [repo][]
@@ -57,7 +68,10 @@ These packages implement complex pipelines for processing data in a series of in
 
 ## Dependencies
 
-These packages help manage the computational environment for running the project code. As a typical example, `packrat::snapshot()` records the packages used for a project as well as their versions, and `packrat::restore()` installs these packages in a new location.
+These packages help manage the computational environment for running the project
+code. As a typical example, `packrat::snapshot()` records the packages used for
+a project as well as their versions, and `packrat::restore()` installs these
+packages in a new location.
 
 * [checkpoint][]
 * [liftr][]
