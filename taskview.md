@@ -11,13 +11,16 @@ categories, but many have features that define the other categories as well.
 
 ## Utilities
 
-These packages provide single-use functions to implement project infrastructure.
-As a typical example, `usethis::use_git()` initializes a Git repository, ignores
-common R files, and commits all project files.
+These packages provide single-use functions to implement project infrastructure
+or solve a specific problem. As a typical example, `usethis::use_git()`
+initializes a Git repository, ignores common R files, and commits all project
+files.
 
+* [here][]
 * [rrtools][]
 * [usethis][]
 
+[here]: https://cran.r-project.org/package=here
 [rrtools]: https://cran.r-project.org/package=rrtools
 [usethis]: https://cran.r-project.org/package=usethis
 
