@@ -7,7 +7,7 @@ categories, but many have features that define the other categories as well.
 * [Utilities](#utilities)
 * [Frameworks](#frameworks)
 * [Pipelines](#pipelines)
-* [Dependencies](#dependencies)
+* [Related links](#related-links)
 
 ## Utilities
 
@@ -69,21 +69,10 @@ whose upstream dependencies have been updated.
 [drake]: https://cran.r-project.org/package=drake
 [repo]: https://cran.r-project.org/package=repo
 
-## Dependencies
+## Related links
 
-These packages help manage the computational environment for running the project
-code. As a typical example, `packrat::snapshot()` records the packages used for
-a project as well as their versions, and `packrat::restore()` installs these
-packages in a new location.
+* CRAN Task View: [Reproducible Research][ctv-rr] (literate programming)
+* Task View: [Computational Environments and Reproducibility][tv-env] (software dependency management)
 
-* [checkpoint][]
-* [liftr][]
-* [packrat][]
-* [rbundler][]
-* [switchr][]
-
-[checkpoint]: https://cran.r-project.org/package=checkpoint
-[liftr]: https://cran.r-project.org/package=liftr
-[packrat]: https://cran.r-project.org/package=packrat
-[rbundler]: https://cran.r-project.org/package=rbundler
-[switchr]: https://cran.r-project.org/package=switchr
+[ctv-rr]: https://cran.r-project.org/view=ReproducibleResearch
+[tv-env]: https://github.com/o2r-project/ctv-computational-environments#readme
