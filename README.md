@@ -30,7 +30,6 @@ Please feel free to send a PR with a link to an additional project.
 * [pkgdown][]
 * [poirot][]
 * [prodigenr][]
-* [pRojects][]
 * [ProjectTemplate][]
 * [rddj-template][]
 * [remake][]
@@ -49,6 +48,7 @@ Please feel free to send a PR with a link to an additional project.
 * [rsmith][]
 * [RSuite][]
 * [samatha][]
+* [starters][] (formerly pRojects)
 * [tinyProject][]
 * [usethis][]
 * [workflowr][]
@@ -77,7 +77,7 @@ Please feel free to send a PR with a link to an additional project.
 [pkgdown]: http://hadley.github.io/pkgdown/
 [poirot]: https://github.com/ramnathv/poirot
 [prodigenr]: https://github.com/lwjohnst86/prodigenr
-[pRojects]: https://github.com/lockedata/pRojects
+[starters]: https://github.com/lockedata/starters
 [ProjectTemplate]: https://github.com/johnmyleswhite/ProjectTemplate
 [rddj-template]: https://github.com/grssnbchr/rddj-template
 [remake]: https://github.com/richfitz/remake
