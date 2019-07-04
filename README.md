@@ -39,6 +39,7 @@ Please feel free to send a PR with a link to an additional project.
 * [reports][]
 * [represtools][]
 * [researchcompendium][]
+* [rflow][]
 * [rmarkdown][]
 * [rmd-notebook][]
 * [rmflight][]: [Analyses as Packages][rmflight-post]
@@ -87,6 +88,7 @@ Please feel free to send a PR with a link to an additional project.
 [reports]: https://github.com/trinker/reports
 [represtools]: https://github.com/PirateGrunt/represtools
 [researchcompendium]: https://github.com/benmarwick/researchcompendium
+[rflow]: https://github.com/numeract/rflow
 [rmarkdown]: http://rmarkdown.rstudio.com/
 [rmd-notebook]: https://github.com/lmullen/rmd-notebook
 [rmflight]: https://github.com/rmflight
