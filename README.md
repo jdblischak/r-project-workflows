@@ -16,6 +16,7 @@ Please feel free to send a PR with a link to an additional project.
 * [bookdown][]
 * [cboettig/template][]
 * [CRAN Task View: Reproducible Research][cran-rr]
+* [DataPackageR][]
 * [drake][]
 * [Executable Research Compendium][erc]
 * [exreport][]
@@ -36,6 +37,7 @@ Please feel free to send a PR with a link to an additional project.
 * [remake][]
 * [repo][]
 * [reportfactory][]
+* [repoGenerator][]
 * [reports][]
 * [represtools][]
 * [researchcompendium][]
@@ -65,6 +67,7 @@ Please feel free to send a PR with a link to an additional project.
 [bookdown]: https://github.com/rstudio/bookdown
 [cboettig/template]: https://github.com/cboettig/template
 [cran-rr]: https://cran.r-project.org/web/views/ReproducibleResearch.html
+[DataPackageR]: https://github.com/ropensci/DataPackageR
 [drake]: https://ropensci.github.io/drake/
 [erc]: http://o2r.info/erc-spec/
 [exreport]: https://github.com/jacintoArias/exreport
@@ -86,6 +89,7 @@ Please feel free to send a PR with a link to an additional project.
 [remake]: https://github.com/richfitz/remake
 [repo]: https://github.com/franapoli/repo
 [reportfactory]: https://github.com/reconhub/reportfactory
+[repoGenerator]: https://github.com/jaredlander/RepoGenerator
 [reports]: https://github.com/trinker/reports
 [represtools]: https://github.com/PirateGrunt/represtools
 [researchcompendium]: https://github.com/benmarwick/researchcompendium
