@@ -51,6 +51,7 @@ Please feel free to send a PR with a link to an additional project.
 * [RSuite][]
 * [samatha][]
 * [starters][] (formerly pRojects)
+* [timoast/notebook-template][]
 * [tinyProject][]
 * [usethis][]
 * [workflowr][]
@@ -101,6 +102,7 @@ Please feel free to send a PR with a link to an additional project.
 [RSuite]: http://rsuite.io
 [samatha]: https://github.com/DASpringate/samatha
 [starters]: https://github.com/lockedata/starters
+[timoast/notebook-template]: https://github.com/timoast/notebook-template
 [tinyProject]: https://github.com/FrancoisGuillem/tinyProject
 [usethis]: http://usethis.r-lib.org/
 [workflowr]: https://jdblischak.github.io/workflowr/
