@@ -27,6 +27,7 @@ Please feel free to send a PR with a link to an additional project.
 * [makeProject][]
 * [manuscriptPackage][]
 * [Open Analytics template package][openanalytics] ([example][openanalytics-ex])
+* [orderly][]
 * [Pakillo/template][]
 * [pkgdown][]
 * [poirot][]
@@ -79,6 +80,7 @@ Please feel free to send a PR with a link to an additional project.
 [manuscriptPackage]: https://github.com/jhollist/manuscriptPackage
 [openanalytics]: https://www.openanalytics.eu/blog/2017/11/21/r-template-package/
 [openanalytics-ex]: https://github.com/openanalytics/useR2017_templatePackageExample
+[orderly]: https://github.com/vimc/orderly
 [Pakillo/template]: https://github.com/Pakillo/template
 [pkgdown]: http://hadley.github.io/pkgdown/
 [poirot]: https://github.com/ramnathv/poirot
