@@ -14,6 +14,7 @@ Please feel free to send a PR with a link to an additional project.
 * [blogdown][]
 * [blogR][]
 * [bookdown][]
+* [cabinets][]
 * [cboettig/template][]
 * [CRAN Task View: Reproducible Research][cran-rr]
 * [DataPackageR][]
@@ -66,6 +67,7 @@ Please feel free to send a PR with a link to an additional project.
 [blogdown]: https://github.com/rstudio/blogdown
 [blogR]: https://github.com/rmflight/blogR
 [bookdown]: https://github.com/rstudio/bookdown
+[cabinets]: https://github.com/nt-williams/cabinets
 [cboettig/template]: https://github.com/cboettig/template
 [cran-rr]: https://cran.r-project.org/web/views/ReproducibleResearch.html
 [DataPackageR]: https://github.com/ropensci/DataPackageR
