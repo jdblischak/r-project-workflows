@@ -21,6 +21,7 @@ Please feel free to send a PR with a link to an additional project.
 * [drake][]
 * [Executable Research Compendium][erc]
 * [exreport][]
+* [flowr][]
 * [knitr][]
 * [knitr-jekyll][]
 * [knowledge-repo][]
@@ -53,6 +54,7 @@ Please feel free to send a PR with a link to an additional project.
 * [rrtools][]
 * [rsmith][]
 * [RSuite][]
+* [ruigi][]
 * [samatha][]
 * [starters][] (formerly pRojects)
 * [timoast/notebook-template][]
@@ -74,6 +76,7 @@ Please feel free to send a PR with a link to an additional project.
 [drake]: https://ropensci.github.io/drake/
 [erc]: http://o2r.info/erc-spec/
 [exreport]: https://github.com/jacintoArias/exreport
+[flowr]: https://github.com/sahilseth/flowr
 [knitr]: https://github.com/yihui/knitr
 [knitr-jekyll]: https://github.com/yihui/knitr-jekyll
 [knowledge-repo]: https://github.com/airbnb/knowledge-repo
@@ -108,6 +111,7 @@ Please feel free to send a PR with a link to an additional project.
 [rrtools]: https://github.com/benmarwick/rrtools
 [rsmith]: https://github.com/hadley/rsmith
 [RSuite]: http://rsuite.io
+[ruigi]: https://github.com/kirillseva/ruigi
 [samatha]: https://github.com/DASpringate/samatha
 [starters]: https://github.com/lockedata/starters
 [timoast/notebook-template]: https://github.com/timoast/notebook-template
