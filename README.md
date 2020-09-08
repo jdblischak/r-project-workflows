@@ -2,7 +2,7 @@
 
 This is a non-exhaustive list of R code that assists with the workflow of R
 projects. Some are R packages, others are Git repositories meant to be used as
-templates, and some are guides. Here "workflow" is broadly defined, and incldues
+templates, and some are guides. Here "workflow" is broadly defined, and includes
 one or more of the following: file organization, dependency management (e.g.
 like GNU Make), or report generation.
 
