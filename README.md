@@ -11,6 +11,7 @@ Please feel free to send a PR with a link to an additional project.
 * [adapr][]
 * [analysis_framework][]
 * [archivist][]
+* [awesome-rmarkdown][]
 * [blogdown][]
 * [blogR][]
 * [bookdown][]
@@ -33,6 +34,7 @@ Please feel free to send a PR with a link to an additional project.
 * [Pakillo/template][]
 * [pkgdown][]
 * [poirot][]
+* [privefl/rmarkdown-website-template][]
 * [prodigenr][]
 * [projects][]
 * [ProjectTemplate][]
@@ -66,6 +68,7 @@ Please feel free to send a PR with a link to an additional project.
 [adapr]: https://github.com/gelfondjal/adapr
 [analysis_framework]: https://github.com/jimhester/analysis_framework
 [archivist]: https://pbiecek.github.io/archivist/
+[awesome-rmarkdown]: https://github.com/harryprince/awesome-rmarkdown
 [blogdown]: https://github.com/rstudio/blogdown
 [blogR]: https://github.com/rmflight/blogR
 [bookdown]: https://github.com/rstudio/bookdown
@@ -89,6 +92,7 @@ Please feel free to send a PR with a link to an additional project.
 [Pakillo/template]: https://github.com/Pakillo/template
 [pkgdown]: http://hadley.github.io/pkgdown/
 [poirot]: https://github.com/ramnathv/poirot
+[privefl/rmarkdown-website-template]: https://github.com/privefl/rmarkdown-website-template
 [prodigenr]: https://github.com/lwjohnst86/prodigenr
 [projects]: https://github.com/NikKrieger/projects
 [ProjectTemplate]: https://github.com/johnmyleswhite/ProjectTemplate
