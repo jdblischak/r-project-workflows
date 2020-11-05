@@ -51,6 +51,7 @@ Please feel free to send a PR with a link to an additional project.
 * [rmd-notebook][]
 * [rmflight][]: [Analyses as Packages][rmflight-post]
 * [rOpenSci Guide to Reproducible Research][rOpenSci]
+* [rosr][]
 * [rostools][]
 * [rr-init][]
 * [rrtools][]
@@ -110,6 +111,7 @@ Please feel free to send a PR with a link to an additional project.
 [rmflight]: https://github.com/rmflight
 [rmflight-post]: https://rmflight.github.io/posts/2014/07/analyses_as_packages.html
 [rOpenSci]: https://ropensci.github.io/reproducibility-guide/
+[rosr]: https://github.com/pzhaonet/rosr
 [rostools]: https://github.com/lwjohnst86/rostools
 [rr-init]: https://github.com/Reproducible-Science-Curriculum/rr-init
 [rrtools]: https://github.com/benmarwick/rrtools
