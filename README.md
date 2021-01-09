@@ -91,7 +91,7 @@ Please feel free to send a PR with a link to an additional project.
 [openanalytics-ex]: https://github.com/openanalytics/useR2017_templatePackageExample
 [orderly]: https://github.com/vimc/orderly
 [Pakillo/template]: https://github.com/Pakillo/template
-[pkgdown]: http://hadley.github.io/pkgdown/
+[pkgdown]: https://github.com/r-lib/pkgdown
 [poirot]: https://github.com/ramnathv/poirot
 [privefl/rmarkdown-website-template]: https://github.com/privefl/rmarkdown-website-template
 [prodigenr]: https://github.com/lwjohnst86/prodigenr
