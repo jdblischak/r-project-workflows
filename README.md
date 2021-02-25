@@ -18,6 +18,7 @@ Please feel free to send a PR with a link to an additional project.
 * [cabinets][]
 * [cboettig/template][]
 * [CRAN Task View: Reproducible Research][cran-rr]
+* [DataKit][]
 * [DataPackageR][]
 * [drake][]
 * [Executable Research Compendium][erc]
@@ -76,6 +77,7 @@ Please feel free to send a PR with a link to an additional project.
 [cabinets]: https://github.com/nt-williams/cabinets
 [cboettig/template]: https://github.com/cboettig/template
 [cran-rr]: https://cran.r-project.org/web/views/ReproducibleResearch.html
+[DataKit]: https://github.com/associatedpress/datakit-core
 [DataPackageR]: https://github.com/ropensci/DataPackageR
 [drake]: https://ropensci.github.io/drake/
 [erc]: http://o2r.info/erc-spec/
