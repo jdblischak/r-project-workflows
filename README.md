@@ -46,6 +46,7 @@ Please feel free to send a PR with a link to an additional project.
 * [repoGenerator][]
 * [reports][]
 * [represtools][]
+* [reproducr][]
 * [researchcompendium][]
 * [rflow][]
 * [rmarkdown][]
@@ -106,6 +107,7 @@ Please feel free to send a PR with a link to an additional project.
 [repoGenerator]: https://github.com/jaredlander/RepoGenerator
 [reports]: https://github.com/trinker/reports
 [represtools]: https://github.com/PirateGrunt/represtools
+[reproducr]: https://github.com/jschultecloos/reproducr
 [researchcompendium]: https://github.com/benmarwick/researchcompendium
 [rflow]: https://github.com/numeract/rflow
 [rmarkdown]: http://rmarkdown.rstudio.com/
