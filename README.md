@@ -33,6 +33,7 @@ Please feel free to send a PR with a link to an additional project.
 * [Open Analytics template package][openanalytics] ([example][openanalytics-ex])
 * [orderly][]
 * [Pakillo/template][]
+* [pavopax/new-project-template][]
 * [pkgdown][]
 * [poirot][]
 * [privefl/rmarkdown-website-template][]
@@ -94,6 +95,7 @@ Please feel free to send a PR with a link to an additional project.
 [openanalytics-ex]: https://github.com/openanalytics/useR2017_templatePackageExample
 [orderly]: https://github.com/vimc/orderly
 [Pakillo/template]: https://github.com/Pakillo/template
+[pavopax/new-project-template]: https://github.com/pavopax/new-project-template
 [pkgdown]: https://github.com/r-lib/pkgdown
 [poirot]: https://github.com/ramnathv/poirot
 [privefl/rmarkdown-website-template]: https://github.com/privefl/rmarkdown-website-template
