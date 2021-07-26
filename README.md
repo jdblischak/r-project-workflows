@@ -62,6 +62,7 @@ Please feel free to send a PR with a link to an additional project.
 * [RSuite][]
 * [ruigi][]
 * [samatha][]
+* [sjessa/rr][]
 * [starters][] (formerly pRojects)
 * [timoast/notebook-template][]
 * [tinyProject][]
@@ -125,6 +126,7 @@ Please feel free to send a PR with a link to an additional project.
 [RSuite]: http://rsuite.io
 [ruigi]: https://github.com/kirillseva/ruigi
 [samatha]: https://github.com/DASpringate/samatha
+[sjessa/rr]: https://github.com/sjessa/rr
 [starters]: https://github.com/lockedata/starters
 [timoast/notebook-template]: https://github.com/timoast/notebook-template
 [tinyProject]: https://github.com/FrancoisGuillem/tinyProject
