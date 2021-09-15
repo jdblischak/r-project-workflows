@@ -27,6 +27,7 @@ Please feel free to send a PR with a link to an additional project.
 * [knitr][]
 * [knitr-jekyll][]
 * [knowledge-repo][]
+* [liangyy/template_r_documentation][]
 * [lnraw][]
 * [makeProject][]
 * [manuscriptPackage][]
@@ -89,6 +90,7 @@ Please feel free to send a PR with a link to an additional project.
 [knitr]: https://github.com/yihui/knitr
 [knitr-jekyll]: https://github.com/yihui/knitr-jekyll
 [knowledge-repo]: https://github.com/airbnb/knowledge-repo
+[liangyy/template_r_documentation]: https://github.com/liangyy/template_r_documentation
 [lnraw]: https://github.com/mmadsen/lnraw
 [makeProject]: https://cran.r-project.org/web/packages/makeProject/index.html
 [manuscriptPackage]: https://github.com/jhollist/manuscriptPackage
