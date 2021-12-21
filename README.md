@@ -121,7 +121,7 @@ Please feel free to send a PR with a link to an additional project.
 [rmd-notebook]: https://github.com/lmullen/rmd-notebook
 [rmflight]: https://github.com/rmflight
 [rmflight-post]: https://rmflight.github.io/posts/2014/07/analyses_as_packages.html
-[rOpenSci]: https://ropensci.github.io/reproducibility-guide/
+[rOpenSci]: https://ropensci-archive.github.io/reproducibility-guide/
 [rosr]: https://github.com/pzhaonet/rosr
 [rostools]: https://github.com/lwjohnst86/rostools
 [rr-init]: https://github.com/Reproducible-Science-Curriculum/rr-init
