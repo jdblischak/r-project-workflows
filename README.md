@@ -29,6 +29,7 @@ Please feel free to send a PR with a link to an additional project.
 * [knowledge-repo][]
 * [liangyy/template_r_documentation][]
 * [lnraw][]
+* [makepipe][]
 * [makeProject][]
 * [manuscriptPackage][]
 * [Open Analytics template package][openanalytics] ([example][openanalytics-ex])
@@ -92,6 +93,7 @@ Please feel free to send a PR with a link to an additional project.
 [knowledge-repo]: https://github.com/airbnb/knowledge-repo
 [liangyy/template_r_documentation]: https://github.com/liangyy/template_r_documentation
 [lnraw]: https://github.com/mmadsen/lnraw
+[makepipe]: https://cran.r-project.org/package=makepipe
 [makeProject]: https://cran.r-project.org/web/packages/makeProject/index.html
 [manuscriptPackage]: https://github.com/jhollist/manuscriptPackage
 [openanalytics]: https://www.openanalytics.eu/blog/2017/11/21/r-template-package/
