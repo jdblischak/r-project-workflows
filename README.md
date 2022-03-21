@@ -32,6 +32,7 @@ Please feel free to send a PR with a link to an additional project.
 * [makepipe][]
 * [makeProject][]
 * [manuscriptPackage][]
+* [notestar][]
 * [Open Analytics template package][openanalytics] ([example][openanalytics-ex])
 * [orderly][]
 * [Pakillo/template][]
@@ -96,6 +97,7 @@ Please feel free to send a PR with a link to an additional project.
 [makepipe]: https://cran.r-project.org/package=makepipe
 [makeProject]: https://cran.r-project.org/web/packages/makeProject/index.html
 [manuscriptPackage]: https://github.com/jhollist/manuscriptPackage
+[notestar]: https://github.com/tjmahr/notestar
 [openanalytics]: https://www.openanalytics.eu/blog/2017/11/21/r-template-package/
 [openanalytics-ex]: https://github.com/openanalytics/useR2017_templatePackageExample
 [orderly]: https://github.com/vimc/orderly
