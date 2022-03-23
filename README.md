@@ -29,6 +29,7 @@ Please feel free to send a PR with a link to an additional project.
 * [knowledge-repo][]
 * [liangyy/template_r_documentation][]
 * [lnraw][]
+* [makebio][] (Python)
 * [makepipe][]
 * [makeProject][]
 * [manuscriptPackage][]
@@ -94,6 +95,7 @@ Please feel free to send a PR with a link to an additional project.
 [knowledge-repo]: https://github.com/airbnb/knowledge-repo
 [liangyy/template_r_documentation]: https://github.com/liangyy/template_r_documentation
 [lnraw]: https://github.com/mmadsen/lnraw
+[makebio]: https://github.com/raivivek/makebio
 [makepipe]: https://cran.r-project.org/package=makepipe
 [makeProject]: https://cran.r-project.org/web/packages/makeProject/index.html
 [manuscriptPackage]: https://github.com/jhollist/manuscriptPackage
