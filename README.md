@@ -70,6 +70,7 @@ Please feel free to send a PR with a link to an additional project.
 * [starters][] (formerly pRojects)
 * [timoast/notebook-template][]
 * [tinyProject][]
+* [trackdown][]
 * [usethis][]
 * [workflowr][]
 * [zoon][]
@@ -138,6 +139,7 @@ Please feel free to send a PR with a link to an additional project.
 [starters]: https://github.com/lockedata/starters
 [timoast/notebook-template]: https://github.com/timoast/notebook-template
 [tinyProject]: https://github.com/FrancoisGuillem/tinyProject
+[trackdown]: https://github.com/ClaudioZandonella/trackdown
 [usethis]: http://usethis.r-lib.org/
 [workflowr]: https://jdblischak.github.io/workflowr/
 [zoon]: https://github.com/zoonproject/zoon
