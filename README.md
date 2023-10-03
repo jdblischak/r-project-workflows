@@ -73,6 +73,7 @@ Please feel free to send a PR with a link to an additional project.
 * [tinyProject][]
 * [trackdown][]
 * [usethis][]
+* [WORCS][]
 * [workflowr][]
 * [zoon][]
 
@@ -134,7 +135,7 @@ Please feel free to send a PR with a link to an additional project.
 [rr-init]: https://github.com/Reproducible-Science-Curriculum/rr-init
 [rrtools]: https://github.com/benmarwick/rrtools
 [rsmith]: https://github.com/hadley/rsmith
-[RSuite]: http://rsuite.io
+[RSuite]: https://github.com/WLOGSolutions/RSuite
 [ruigi]: https://github.com/kirillseva/ruigi
 [samatha]: https://github.com/DASpringate/samatha
 [sjessa/rr]: https://github.com/sjessa/rr
@@ -143,5 +144,6 @@ Please feel free to send a PR with a link to an additional project.
 [tinyProject]: https://github.com/FrancoisGuillem/tinyProject
 [trackdown]: https://github.com/ClaudioZandonella/trackdown
 [usethis]: http://usethis.r-lib.org/
-[workflowr]: https://jdblischak.github.io/workflowr/
+[WORCS]: https://cjvanlissa.github.io/worcs/
+[workflowr]: https://workflowr.github.io/workflowr/
 [zoon]: https://github.com/zoonproject/zoon
