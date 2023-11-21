@@ -18,6 +18,7 @@ Please feel free to send a PR with a link to an additional project.
 * [cabinets][]
 * [cboettig/template][]
 * [CRAN Task View: Reproducible Research][cran-rr]
+* [crsh/template][]
 * [DataKit][]
 * [DataPackageR][]
 * [drake][]
@@ -69,6 +70,7 @@ Please feel free to send a PR with a link to an additional project.
 * [samatha][]
 * [sjessa/rr][]
 * [starters][] (formerly pRojects)
+* [startyourlab/r-project-template][]
 * [timoast/notebook-template][]
 * [tinyProject][]
 * [trackdown][]
@@ -87,6 +89,7 @@ Please feel free to send a PR with a link to an additional project.
 [cabinets]: https://github.com/nt-williams/cabinets
 [cboettig/template]: https://github.com/cboettig/template
 [cran-rr]: https://cran.r-project.org/web/views/ReproducibleResearch.html
+[crsh/template]: https://github.com/crsh/template
 [DataKit]: https://github.com/associatedpress/datakit-core
 [DataPackageR]: https://github.com/ropensci/DataPackageR
 [drake]: https://ropensci.github.io/drake/
@@ -140,6 +143,7 @@ Please feel free to send a PR with a link to an additional project.
 [samatha]: https://github.com/DASpringate/samatha
 [sjessa/rr]: https://github.com/sjessa/rr
 [starters]: https://github.com/lockedata/starters
+[startyourlab/r-project-template]: https://github.com/startyourlab/r-project-template
 [timoast/notebook-template]: https://github.com/timoast/notebook-template
 [tinyProject]: https://github.com/FrancoisGuillem/tinyProject
 [trackdown]: https://github.com/ClaudioZandonella/trackdown
